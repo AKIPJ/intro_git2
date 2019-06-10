@@ -1,2 +1,3 @@
 最近の追加作成ファイル
 git status
+git diff
